@@ -1,3 +1,14 @@
+<h1 align="center">Hello 👋, I'm Sara</h1>
+
+###
+
+<h3 align="center">Systems Engineering Student</h3>
+
+###
+
+<p align="center">◆ Future Backend Developer ◆</p>
+
+### 
 # 💫 About Me:
 🔭 I’m currently working on create new repo<br>👯 I’m looking to collaborate on everything<br>🌱 I’m currently learning Python and Git<br>⚡ I'm a beginner :)
 
