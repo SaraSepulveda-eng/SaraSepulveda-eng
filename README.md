@@ -6,11 +6,11 @@
 
 ###
 
-<p align="center">◆ Future Backend Developer ◆</p>
+<p align="center">◆ Future Full Satck Developer ◆</p>
 
 ### 
 # 💫 About Me:
-🔭 I’m currently working on create new repo<br>👯 I’m looking to collaborate on everything<br>🌱 I’m currently learning Python and Git<br>⚡ I'm a beginner :)
+🔭 I’m currently working on create new and first project<br>👯 I’m looking to collaborate on everything<br>🌱 I’m currently learning Python and Git<br>⚡ I'm a beginner :)
 
 
 ## 🌐 Socials:
