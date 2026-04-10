@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">◆ Future Full Satck Developer ◆</p>
+<p align="center">◆ Future Back-End Developer ◆</p>
 
 ### 
 # 💫 About Me:
