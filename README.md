@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">◆ Future Back-End Developer ◆</p>
+<p align="center">◆ Aspiring Cybersecurity Engineer ◆</p>
 
 ### 
 # 💫 About Me:
