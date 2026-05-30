@@ -10,7 +10,7 @@
 
 ### 
 # 💫 About Me:
-🔭 I’m currently working on create new and first project<br>🌱 I’m currently learning Python and Git<br>⚡ I'm a beginner :)
+🔭 I’m currently working on create my new and first project<br>🌱 I’m currently learning Python and JavaScript<br>⚡ I'm a BEGINNER :)
 
 
 ## 🌐 Socials:
