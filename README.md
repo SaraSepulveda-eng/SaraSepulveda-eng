@@ -1,8 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sara</h1>
 
-###
-
-<h3 align="center">Systems Engineering Student</h3>
 
 ###
 
