@@ -22,5 +22,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=SaraSepulveda-eng&icon=0&color=10)](https://visitcount.itsvg.in)
+
 
