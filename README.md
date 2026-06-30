@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=SaraSepulveda-eng&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
